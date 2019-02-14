@@ -18,7 +18,7 @@ greeting()
 # 2.11.19
 # Joe Hill
 
-x = 406
+x = 10
 
 def print_something():
      x = 3
