@@ -1,9 +1,8 @@
 # 4.13.3: Greetings
-# Mr. Lange
 # Joe Hill
 # 2.5.19
 
-'''
+
 name = input("What is your name: ")
 
 def greeting():
@@ -11,7 +10,7 @@ def greeting():
     print("Nice to meet you")
 
 greeting()
-'''
+
 
 # 4.13.4: Functions and Variables
 # Mr. Lange
@@ -26,3 +25,15 @@ def print_something():
 
 print('\n', x)
 print_something()
+
+
+# 4.13.6: Fuctions and Variables, part 3
+# Joe Hill
+# 2.18.19
+
+
+def print_number(x):
+    print('\n', x)
+
+print_number(13)
+print_number(23)
