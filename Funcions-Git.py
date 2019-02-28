@@ -38,9 +38,11 @@ def print_number(x):
 print_number(13)
 print_number(23)
 
+
 # 4.14.4: Name and Age
 # Joe Hill
 # 2.18.19
+
 
 def name_and_age(name, age):
     print('\n','Hi, my name is', name, 'and I am', str(age), 'years old')
@@ -60,3 +62,14 @@ def print_two_numbers(x, y = 20):
 
 print_two_numbers(34, 45)
 print_two_numbers(78)
+
+
+# 4.14.6: Print Sum
+# Joe Hill
+# 2.19.19
+
+
+def print_sum(x, y):
+    print(x + y)
+
+print_sum(54,99)
