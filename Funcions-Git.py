@@ -38,9 +38,11 @@ def print_number(x):
 print_number(13)
 print_number(23)
 
+
 # 4.14.4: Name and Age
 # Joe Hill
 # 2.18.19
+
 
 def name_and_age(name, age):
     print('\n','Hi, my name is', name, 'and I am', str(age), 'years old')
