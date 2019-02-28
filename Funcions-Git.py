@@ -62,3 +62,14 @@ def print_two_numbers(x, y = 20):
 
 print_two_numbers(34, 45)
 print_two_numbers(78)
+
+
+# 4.14.6: Print Sum
+# Joe Hill
+# 2.19.19
+
+
+def print_sum(x, y):
+    print(x + y)
+
+print_sum(54,99)
