@@ -105,3 +105,13 @@ except ValueError:
 
 print('Name:',name)
 print('Age:', age)
+
+# Program Tracing
+# Joe Hill
+x = 10
+
+while x > 5:
+    print(x)
+    x = x - 2
+
+
