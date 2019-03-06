@@ -105,6 +105,3 @@ except ValueError:
 
 print('Name:',name)
 print('Age:', age)
-
-
-
