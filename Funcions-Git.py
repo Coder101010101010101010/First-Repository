@@ -125,3 +125,14 @@ while guess != my_number:
 
 print ("")
 print ("Good job you have guessed it")
+
+
+# Program Tracing
+# Joe Hill
+x = 10
+
+while x > 5:
+    print(x)
+    x = x - 2
+
+
